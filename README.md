@@ -124,11 +124,9 @@ while 1:
 
 ## Result:
 Client :
-
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/13bf9cbe-7ada-4feb-b98b-e7a677e7553d" />
 
 Server :
-
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3db701ab-c095-4358-97e1-225f7d2a3d1d" />
 
 Thus the study on Client Server Chat Applications has been performed
